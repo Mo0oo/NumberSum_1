@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 	// write your code here
-        System.out.println("I have the mo0ootivation...");
+       // System.out.println("I have the mo0ootivation...");
     }
 
     public static int[] twoNumberSum(int[] array, int targetSum) {
